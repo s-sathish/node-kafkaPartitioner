@@ -1,0 +1,23 @@
+{
+  "name": "node-kafka-partitioner",
+  "version": "1.0.0",
+  "description": "Kafka partition selection based on key and partitionCount",
+  "main": "defaultPartitioner.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-sathish/node-kafkaPartitioner.git"
+  },
+  "keywords": [
+    "Kafka",
+    "ProducerPartitioning"
+  ],
+  "author": "Sathish S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-sathish/node-kafkaPartitioner/issues"
+  },
+  "homepage": "https://github.com/s-sathish/node-kafkaPartitioner#readme"
+}
